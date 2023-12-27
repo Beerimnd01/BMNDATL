@@ -1,2 +1,32 @@
-package src.basics05;public class Lab056 {
+package src.basics05;
+
+public class Lab056 {
+    public static void main(String[] args) {
+
+        // for( A ;B ; C)
+        // A -> Initialization -> JVM What variable, where you are starting point
+        // B - Condition -> When you want this to stop. -> true, false
+        // C ->  Increment / Decrement
+
+        // ICID ->
+//        for (; ; )
+//            System.out.println("Pramod");
+
+
+//        boolean b1=true;
+//        b1=false;
+//        for(;b1; )
+//            System.out.println("TTA");
+
+
+        for (double i = 1.1; i < 12.30; i++) {
+            System.out.println("Hi");
+        }
+ //flase condtion loop will exit
+        for (int i = 0; i > 1 ; i++) {
+            System.out.println("Pramod");
+        }
+        System.out.println("End");
+
+    }
 }

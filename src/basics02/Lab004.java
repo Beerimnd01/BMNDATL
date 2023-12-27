@@ -1,4 +1,4 @@
-package src;
+package src.basics02;
 
 public class Lab004 {
 
