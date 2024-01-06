@@ -1,4 +1,4 @@
-package src.OOPS.Basics.oops;
+package src.OOPS.Basics;
 
 public class Lab115 {
     // Constructor
