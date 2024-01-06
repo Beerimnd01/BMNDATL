@@ -6,6 +6,7 @@ public class Lab114 {
     public static void main(String[] args) {
         // how to execute the method
 
+
     }
     void print() {
         System.out.println("Hi I am a Method!!");
