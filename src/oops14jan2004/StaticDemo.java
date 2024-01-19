@@ -13,7 +13,7 @@ public class StaticDemo {
         int age = 40;
         System.out.println("Name is :" + college_name);
         // You can't have an Instance variable into the Static Method!!
-        //System.out.println("Version is : " + version);
+       // System.out.println("Version is : " + version);
     }
     // Non static method
     public void printVersion() {
