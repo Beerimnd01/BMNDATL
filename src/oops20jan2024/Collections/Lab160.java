@@ -25,3 +25,4 @@ public class Lab160 {
             System.out.println(iterator.next()); //2,3,4
         }
     }
+}
