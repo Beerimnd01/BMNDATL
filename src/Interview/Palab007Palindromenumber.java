@@ -14,12 +14,12 @@ public class Palab007Palindromenumber {
         while(num>0){
             remainder=num%10;
 
-            sum=sum*10+remainder;
+            revnum=sum*10+remainder;
             num=num/10;
 
 
         }
-        if (sum==num){
+        if (revnum==num){
             System.out.println("palindrome");
         }
         else {

@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class HasMap {
+public class HasMap<C, I extends Number> {
     public static void main(String[] args) {
         //HasMap m = new HasMap();
         HashMap<Integer, String> m= new HashMap<>();
